@@ -5,7 +5,7 @@ export const styles  = StyleSheet.create({
     container: {
       flex:2,
       backgroundColor:"#131016",
-      padding: 10
+      padding: 10,
   
     },
   
@@ -53,8 +53,16 @@ export const styles  = StyleSheet.create({
       width: '100%',
       flexDirection: 'row',
       marginTop: 36,
-      marginBotton: 42
+      marginBottom: 42 
 
+
+    },
+
+    listEmptyText: {
+      color: "#FFF",
+      fontSize: 14,
+      textAlign: "center"
+    
     }
   
   })

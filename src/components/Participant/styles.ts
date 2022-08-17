@@ -9,14 +9,15 @@ export const styles = StyleSheet.create({
         borderRadius: 5,
         flexDirection: "row",
         alignItems: "center",
-        marginBottom: 10
+        marginBottom: 10,
+
 
 
 
     },
     name :{
-        color: "#FFF",
         flex: 1,
+        color: "#FFF",
         fontSize: 16,
         marginLeft: 16
 
