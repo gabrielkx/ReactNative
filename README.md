@@ -7,8 +7,8 @@ Foto do app Abaixo
 ### English ###
 
 
-Project developed with React-native
-The project consists of a mobile application that allows adding and removing users from a list. Within it, modal's of confirmation, listing, Control of duplicate users, Hooks among others were implemented.
+Project developed with React-native. 
+The project consists of a mobile application that allows addition and removal of  users from a list. Within it, modal's of confirmation, listing, Control of duplicate users, Hooks among others were implemented. 
 Photo of the app Below
 
 ![WhatsApp Image 2022-08-17 at 22 46 14](https://user-images.githubusercontent.com/49771700/185281239-17b9ce5f-1bda-48c1-b355-ac294b31378e.jpeg)
