@@ -1,4 +1,4 @@
-### Portgues ###
+### Português ###
 
 Projeto desenvolvido com React-native 
 O projeto consiste em um aplicativo mobile que permite adicionar e remover usuarios de uma lista. Dentro  do mesmo foi implementado modal's de confirmação, listagem, Controle de usuários duplicados, Hooks entre outros.
